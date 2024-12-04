@@ -76,5 +76,5 @@ Here’s an example of the detection process:
 ---
 ## Author
 
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+**MEDPRG**  
+[GitHub Profile](https://github.com/MEDPRG)
