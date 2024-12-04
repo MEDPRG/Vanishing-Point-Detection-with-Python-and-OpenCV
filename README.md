@@ -65,7 +65,7 @@ The script generates a visual representation of the vanishing point and the inli
 Here’s an example of the detection process:
 
 1. **Input Image**:
-   ![Input Image](path/to/input_image.jpg)
+   ![ELTECar2](https://github.com/user-attachments/assets/faaa0a9d-db57-42bd-aba7-5af986decc63)
 
 2. **Detected Line Segments**:
    ![image](https://github.com/user-attachments/assets/82a442ae-4c16-404c-806f-22a5af0b04f9)
