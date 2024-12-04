@@ -68,10 +68,10 @@ Here’s an example of the detection process:
    ![Input Image](path/to/input_image.jpg)
 
 2. **Detected Line Segments**:
-   ![Line Segments](path/to/line_segments.jpg)
+   ![image](https://github.com/user-attachments/assets/82a442ae-4c16-404c-806f-22a5af0b04f9)
 
 3. **Vanishing Point and Inliers**:
-   ![Vanishing Point](path/to/vanishing_point.jpg)
+   ![image](https://github.com/user-attachments/assets/4cb84011-c2fc-4f17-9732-4d7c19503652)
 
 ---
 ## Author
