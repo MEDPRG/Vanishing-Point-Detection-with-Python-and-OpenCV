@@ -146,7 +146,7 @@ def draw_result_on_black_canvas(image, vanishing_point, inliers):
 
 if __name__ == "__main__":
     # Load the image
-    img2 = cv.resize(cv.imread('ELTECar_images/ELTECar2.png'), (700, 700))
+    img2 = cv.resize(cv.imread('path/image.png'), (700, 700))
     img = cv.cvtColor(img2, cv.COLOR_BGR2GRAY)
     lsd = cv.createLineSegmentDetector(cv.LSD_REFINE_STD)
 
