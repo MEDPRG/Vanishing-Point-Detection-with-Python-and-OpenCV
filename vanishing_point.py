@@ -37,7 +37,7 @@ def Ransac(lines, sigma):
     current_inliers = []
 
     if lines is not None and len(lines) >= 2:
-        for i in range((len(lines)) // 2):
+        for i in range((len(lines)) // 2): # if you want to compute the maximum possible number of condidates replace  (len(lines)*(len(lines)-1)) // 2
             selected_line1, selected_line2 = random.sample(list(lines), 2)
             intersect = intersection_point_cramer(selected_line1[0], selected_line2[0])
             if intersect is not None:
